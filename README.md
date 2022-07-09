@@ -3,6 +3,6 @@
 - 🔭 Desejo estagiar na área da programação
 - 🌱 Atualmente estou estudando Phyton, SQL, JavaScript, HTML5 e CSS3
 - 👯 Procuro colaborar em projetos com amigos para aprendizado
-- 📫 Conta-te me no email: programmerpaulo@gmail.com
+- 📫 Contate-me no email: programmerpaulo@gmail.com
 - 🙂 Pronomes: Ele/Dele
 
